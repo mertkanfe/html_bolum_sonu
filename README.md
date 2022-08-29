@@ -2,4 +2,4 @@
 
 Merhaba. [Patika](www.patika.dev)'nın html eğitimindeki bölüm sonu çalışmasını tamamladım.
 
-<img src="images/ss.PNG" alt="Bölüm Sonu Çalışması"/>
+<img src="images/Sayfam.PNG" alt="Kişisel Sayfam"/>
